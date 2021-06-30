@@ -7,7 +7,7 @@ def weightedMean(X, W):
     mean_waited = V_sum / W_sum
     #print(V_sum)
     #print(W_sum)
-    print(mean_waited)
+    print(round(mean_waited,1))
 
 if __name__ == '__main__':
 
